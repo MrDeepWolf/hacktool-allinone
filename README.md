@@ -4,7 +4,7 @@ I made a set of all anonymous hacking tools for you.
 
 Warning! : This software is meant for educational purposes only. I'm not responsible for any malicious use of the app.
 
-* Install Kali Linux in WIndows10 Without VirtualBox
+* Possible Install Kali Linux in WIndows10 App Store Without VirtualBox
 
 
 Tools Menu 🧰

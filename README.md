@@ -298,3 +298,14 @@ Tools Menu 🧰
 25 - Mix tools
   
   * Terminal Multiplexer
+  
+    <img class="fit-picture"
+     src="/img/1.jpg">
+    <img class="fit-picture"
+     src="/img/2.jpg">
+       <img class="fit-picture"
+     src="/img/3.jpg">
+       <img class="fit-picture"
+     src="/img/4.jpg">
+       <img class="fit-picture"
+     src="/img/5.jpg">
